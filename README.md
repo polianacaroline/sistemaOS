@@ -1,2 +1,2 @@
 # sistemaOS
-DoctorCell-Assistencia tecnica de celulares
+DoctorCell-Assistência técnica de celulares
